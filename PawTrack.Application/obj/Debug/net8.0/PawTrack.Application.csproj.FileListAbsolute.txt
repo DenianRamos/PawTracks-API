@@ -1,0 +1,15 @@
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\bin\Debug\net8.0\PawTrack.Application.deps.json
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\bin\Debug\net8.0\PawTrack.Application.dll
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\bin\Debug\net8.0\PawTrack.Application.pdb
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\bin\Debug\net8.0\PawTrack.Communication.dll
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\bin\Debug\net8.0\PawTrack.Communication.pdb
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\obj\Debug\net8.0\PawTrack.Application.csproj.AssemblyReference.cache
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\obj\Debug\net8.0\PawTrack.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\obj\Debug\net8.0\PawTrack.Application.AssemblyInfoInputs.cache
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\obj\Debug\net8.0\PawTrack.Application.AssemblyInfo.cs
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\obj\Debug\net8.0\PawTrack.Application.csproj.CoreCompileInputs.cache
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\obj\Debug\net8.0\PawTrack.03935914.Up2Date
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\obj\Debug\net8.0\PawTrack.Application.dll
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\obj\Debug\net8.0\refint\PawTrack.Application.dll
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\obj\Debug\net8.0\PawTrack.Application.pdb
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Application\obj\Debug\net8.0\ref\PawTrack.Application.dll

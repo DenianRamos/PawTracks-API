@@ -1,0 +1,11 @@
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Communication\bin\Debug\net8.0\PawTrack.Communication.deps.json
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Communication\bin\Debug\net8.0\PawTrack.Communication.dll
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Communication\bin\Debug\net8.0\PawTrack.Communication.pdb
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Communication\obj\Debug\net8.0\PawTrack.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Communication\obj\Debug\net8.0\PawTrack.Communication.AssemblyInfoInputs.cache
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Communication\obj\Debug\net8.0\PawTrack.Communication.AssemblyInfo.cs
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Communication\obj\Debug\net8.0\PawTrack.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Communication\obj\Debug\net8.0\PawTrack.Communication.dll
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Communication\obj\Debug\net8.0\refint\PawTrack.Communication.dll
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Communication\obj\Debug\net8.0\PawTrack.Communication.pdb
+C:\Users\Denian\source\repos\PawTrack\PawTrack.Communication\obj\Debug\net8.0\ref\PawTrack.Communication.dll

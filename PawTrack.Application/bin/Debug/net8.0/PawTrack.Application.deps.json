@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PawTrack.Application/1.0.0": {
+        "dependencies": {
+          "PawTrack.Communication": "1.0.0"
+        },
+        "runtime": {
+          "PawTrack.Application.dll": {}
+        }
+      },
+      "PawTrack.Communication/1.0.0": {
+        "runtime": {
+          "PawTrack.Communication.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PawTrack.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PawTrack.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

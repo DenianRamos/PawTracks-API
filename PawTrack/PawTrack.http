@@ -1,0 +1,6 @@
+@PawTrack_HostAddress = http://localhost:5281
+
+GET {{PawTrack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
