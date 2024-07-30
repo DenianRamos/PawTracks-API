@@ -10,13 +10,14 @@ PawTrack is a comprehensive RESTful API designed to manage pet information seaml
 - **Delete Pet Records:** Remove pets from the system.
 
 ## Endpoints
-
-## Tools
-![C#](https://img.shields.io/badge/C%23-51375e?logo=c-sharp&logoColor=white&style=for-the-badge) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 - `POST /pets` - Create a new pet record.
 - `GET /pets/{id}` - Retrieve a pet record by ID.
 - `PUT /pets/{id}` - Update a pet record by ID.
 - `DELETE /pets/{id}` - Delete a pet record by ID.
+
+## Tools
+![C#](https://img.shields.io/badge/C%23-51375e?logo=c-sharp&logoColor=white&style=for-the-badge) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 
 ## Installation
 
